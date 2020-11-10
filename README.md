@@ -3,12 +3,19 @@
 It is simple social media spammer mainly whatsapp and instagram.
 
 ## Requirements 
+Type bash install.sh
+
+      or
 
 Install requirement.txt
 
 or manually install pyautogui by pip install PyAutoGUI
 
 ## Setup
+
+
+Type bash run.sh
+
 
 Add the text you want to spam in spam_text.
 
