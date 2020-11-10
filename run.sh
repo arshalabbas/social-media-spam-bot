@@ -5,6 +5,7 @@ sleep 2
 nano spam_text
 echo "How many times would you like to loop:"
 read f
+echo "Starting..."
 sleep 5
 for ((i=0; i<$f; i++))
 do
