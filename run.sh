@@ -1,4 +1,4 @@
-lear
+clear
 cat banner.txt
 echo "Starting..."
 sleep 2
